@@ -2,7 +2,7 @@
   "version": "1.0.1",
   "patchUrl": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.1/patch.zip",
   "sha256": "CEC6DD98636757BC04A912EE8D1A4DB7E51F62842F5731D66BE5F47702FCA9AA",
-  "message": "용용몬 v1.0.1 업데이트"
+  "message": "용용몬 v1.0.1 업데이트",
   "replaceFolders": [
     "mods"
   ],
