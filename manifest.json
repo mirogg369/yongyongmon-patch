@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "patchUrl": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.0/patch.zip",
+  "patchUrl": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.0/patch.Zip",
   "sha256": "D6D17072EEC82E9D228D29F4CA1680FCB4A557EC8553A3C3EDE64310C964CAA5",
   "message": "용용몬 v1.0.0 최초 배포 패치입니다.",
   "replaceFolders": [
