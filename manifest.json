@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "patchUrl": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.5/patch.zip",
-  "sha256": "18387ED2DCBBC4EFAC85FCB7786066A4C9DF2ED54B01B120448F1E1AD7BCC305",
+  "version": "1.0.6",
+  "patchUrl": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.6/patch.zip",
+  "sha256": "EC09AA6179F40B1F2D90717D634BC1FB2E58D346A0EFA42147E329B2B0AA71B4",
   "message": "용용몬 업데이트",
   "replaceFolders": [
     "mods"
@@ -16,38 +16,12 @@
   "deletePaths": [],
   "deltaPatches": [
     {
-      "fromVersion": "1.0.4",
-      "url": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.5/update-1.0.4-to-1.0.5.zip",
-      "sha256": "AB6AED37F40FA19C917C58E4F98C2B3938F844A6CAF1C35C23E5577993E38066",
+      "fromVersion": "1.0.5",
+      "url": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.6/update-1.0.5-to-1.0.6.zip",
+      "sha256": "254E63822E468CF60A48BE1FCD5026CDC8FE3B69EBA219FF0DA72A21C821DF7E",
       "replaceFolders": [],
       "deletePaths": [
-        ".fabric/processedMods/mixinextras-0.5.4-edfcdd3df0b35281.jar",
-        ".fabric/remappedJars/minecraft-1.21.1-0.19.2/client-intermediary.jar",
-        "fancymenu_data/seamless_world_loading/server_74957818dce8d275907b7cf095829a010299bd2b.png",
-        "fancymenu_data/seamless_world_loading/world_00730a09c12a32ab0281bcd7ab1ce3738daaed49.png",
-        "mods/CobbleverseBadges-1.3.jar.duplicate",
-        "mods/yongyonglegendary-0.1.7.jar",
-        "mods/yongyongmon-0.9.30.jar",
-        "xaero/minimap/Multiplayer_join.wrd.kr/config.txt",
-        "xaero/world-map/Multiplayer_join.wrd.kr/cobblemonraiddens$raid_dimension/dimension_config.txt",
-        "xaero/world-map/Multiplayer_join.wrd.kr/null/dimension_config.txt",
-        "xaero/world-map/Multiplayer_join.wrd.kr/null/mw$default/-1_-2.zip",
-        "xaero/world-map/Multiplayer_join.wrd.kr/null/mw$default/-2_-2.zip",
-        "xaero/world-map/Multiplayer_join.wrd.kr/null/mw$default/.lock",
-        "xaero/world-map/Multiplayer_join.wrd.kr/null/mw$default/cache_1/-1_-2.xwmc.outdated",
-        "xaero/world-map/Multiplayer_join.wrd.kr/null/mw$default/cache_1/-2_-2.xwmc.outdated",
-        "xaero/world-map/Multiplayer_join.wrd.kr/server_config.txt",
-        "xaero/world-map/Multiplayer_yongyong11.m-c.kr/null/mw$default/cache_1/-1_-1.xwmc",
-        "xaero/world-map/Multiplayer_yongyong11.m-c.kr/null/mw$default/cache_1/-1_-2.xwmc.outdated",
-        "xaero/world-map/Multiplayer_yongyong11.m-c.kr/null/mw$default/cache_1/-1_0.xwmc",
-        "xaero/world-map/Multiplayer_yongyong11.m-c.kr/null/mw$default/cache_1/-2_-2.xwmc.outdated",
-        "xaero/world-map/Multiplayer_yongyong11.m-c.kr/null/mw$default/cache_1/-2_-3.xwmc",
-        "xaero/world-map/Multiplayer_yongyong11.m-c.kr/null/mw$default/cache_1/0_-1.xwmc",
-        "xaero/world-map/Multiplayer_yongyong11.m-c.kr/null/mw$default/cache_1/0_0.xwmc",
-        "xaero/world-map/새로운 세계/null/cache_1/-1_-1.xwmc.outdated",
-        "xaero/world-map/새로운 세계/null/cache_1/-1_0.xwmc.outdated",
-        "xaero/world-map/새로운 세계/null/cache_1/0_-1.xwmc.outdated",
-        "xaero/world-map/새로운 세계/null/cache_1/0_0.xwmc.outdated"
+        "mods/yongyongmon-0.9.38.jar"
       ]
     }
   ]
