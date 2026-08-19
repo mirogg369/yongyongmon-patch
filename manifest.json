@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "patchUrl": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.6/patch.zip",
-  "sha256": "EC09AA6179F40B1F2D90717D634BC1FB2E58D346A0EFA42147E329B2B0AA71B4",
+  "version": "1.0.7",
+  "patchUrl": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.7/patch.zip",
+  "sha256": "11CF10CBE2975B547867AFD1F3958E7211B4A7AB3177440EAA4A3A0DE99339BF",
   "message": "용용몬 업데이트",
   "replaceFolders": [
     "mods"
@@ -16,12 +16,13 @@
   "deletePaths": [],
   "deltaPatches": [
     {
-      "fromVersion": "1.0.5",
-      "url": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.6/update-1.0.5-to-1.0.6.zip",
-      "sha256": "254E63822E468CF60A48BE1FCD5026CDC8FE3B69EBA219FF0DA72A21C821DF7E",
+      "fromVersion": "1.0.6",
+      "url": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.7/update-1.0.6-to-1.0.7.zip",
+      "sha256": "A59B33BA061DD44FEAA258B8D0757A5151EEB3F2D6392CA101095F7364EB7E32",
       "replaceFolders": [],
       "deletePaths": [
-        "mods/yongyongmon-0.9.38.jar"
+        "mods/pokebattle-1.0.0.jar",
+        "mods/yongyongmon-0.9.61.jar"
       ]
     }
   ]
