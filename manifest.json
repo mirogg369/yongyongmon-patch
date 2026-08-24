@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9",
-  "patchUrl": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.9/patch.zip",
-  "sha256": "518747A65B278B57867DD07DA61E433E7AAA12BCD56FA1717B452B379CE44298",
+  "version": "1.0.10",
+  "patchUrl": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.10/patch.zip",
+  "sha256": "7D41C0F5020B920D5F3F10A9855FA065DEE722B84B330FD8FEB4DA182AC246F6",
   "message": "용용몬 업데이트",
   "replaceFolders": [
     "mods"
@@ -16,19 +16,11 @@
   "deletePaths": [],
   "deltaPatches": [
     {
-      "fromVersion": "1.0.8",
-      "url": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.9/update-1.0.8-to-1.0.9.zip",
-      "sha256": "3C7B2A30F43AE67F09BD2E7BE0BE2B406BDA88E20A15E07D1AD0FD49B379E769",
+      "fromVersion": "1.0.9",
+      "url": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.10/update-1.0.9-to-1.0.10.zip",
+      "sha256": "9CDD2BDBB9F55C8A8DD04E44E9FB4BA52DFE3C49BF30BABE00B1DE1D75C90315",
       "replaceFolders": [],
-      "deletePaths": [
-        "mods/pokebattle-1.0.4.jar",
-        "mods/pokeblocks-1.4.0-1.21.1.jar",
-        "mods/yongyongmon-0.9.72.jar",
-        "xaero/world-map/평지/null/cache_1/-1_-1.xwmc.outdated",
-        "xaero/world-map/평지/null/cache_1/-1_0.xwmc.outdated",
-        "xaero/world-map/평지/null/cache_1/0_-1.xwmc.outdated",
-        "xaero/world-map/평지/null/cache_1/0_0.xwmc.outdated"
-      ]
+      "deletePaths": null
     }
   ]
 }
