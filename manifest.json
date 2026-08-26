@@ -1,7 +1,7 @@
 {
-  "version": "1.0.11",
-  "patchUrl": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.11/patch.zip",
-  "sha256": "4B1F4D04EDCD231138AEA45964A88AA4423655F22D67CD0FC10102F481E26256",
+  "version": "1.0.12",
+  "patchUrl": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.12/patch.zip",
+  "sha256": "F4F64F10D84316BB386665DF1E71EBE2091CB444C178C9FA4730CA8CFA120AFA",
   "message": "용용몬 업데이트",
   "replaceFolders": [
     "mods",
@@ -20,12 +20,13 @@
   "deletePaths": [],
   "deltaPatches": [
     {
-      "fromVersion": "1.0.10",
-      "url": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.11/update-1.0.10-to-1.0.11.zip",
-      "sha256": "FA18DDCB10798D5525EC877575646205A09963B7C0999C2EB92CB0A89C977FDF",
+      "fromVersion": "1.0.11",
+      "url": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.12/update-1.0.11-to-1.0.12.zip",
+      "sha256": "219067316DDBD98C46C1732FF95D2EDFAB4DE38874C3F868EB3CAAF97F5308C1",
       "replaceFolders": [],
       "deletePaths": [
-        "mods/yongyongvoice-fabric-1.21.1-0.1.2.jar"
+        "mods/YongYongQuest-0.1.4.jar",
+        "resourcepacks/YongYongmon_ClientResources_v0.3.2_FaceFix.zip"
       ]
     }
   ]
