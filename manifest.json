@@ -1,7 +1,7 @@
 {
-  "version": "1.0.13",
-  "patchUrl": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.13/patch.zip",
-  "sha256": "C4AD909C1602319EA5F43A430130099A95E13A3071033C0EEDC17BEB60208ABC",
+  "version": "1.0.14",
+  "patchUrl": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.14/patch.zip",
+  "sha256": "349550AE2C2393321825BD77EF1E20947A8070F0A90EE0DAE3D0A026ADB8C55C",
   "message": "용용몬 업데이트",
   "replaceFolders": [
     "mods",
@@ -20,14 +20,13 @@
   "deletePaths": [],
   "deltaPatches": [
     {
-      "fromVersion": "1.0.12",
-      "url": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.13/update-1.0.12-to-1.0.13.zip",
-      "sha256": "232CE8C871FEAE3F95A3AB730D01CF5DBC3E09AB7C0E986AD41A4DAC8B21EB1A",
+      "fromVersion": "1.0.13",
+      "url": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.14/update-1.0.13-to-1.0.14.zip",
+      "sha256": "ECB4092347808A4E2829623C1D5405E4D01CB4CB99DD067F4C3E6A8383F77574",
       "replaceFolders": [],
       "deletePaths": [
-        "mods/YongYongQuest-v0.1.12.jar",
-        "mods/yongyongmon-0.9.73.jar",
-        "resourcepacks/YongYongmon_ClientResources_v0.3.3_FaceFix_LoadHotfix.zip"
+        "mods/YongYongQuest-v0.1.13.jar",
+        "resourcepacks/YongYongmon_ClientResources_v0.4.0.zip"
       ]
     }
   ]
