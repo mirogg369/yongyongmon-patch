@@ -1,7 +1,7 @@
 {
-  "version": "1.0.16",
-  "patchUrl": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.16/patch.zip",
-  "sha256": "0EEBCD61F41EB6D1784F4811F16057478666B051D451DE89E5F250AE7653762F",
+  "version": "1.0.17",
+  "patchUrl": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.17/patch.zip",
+  "sha256": "EF46DD40583E8DA013B7153DF780F993ED3DEF21351206C8E88B41D29C83E990",
   "message": "용용몬 업데이트",
   "replaceFolders": [
     "mods",
@@ -20,14 +20,13 @@
   "deletePaths": [],
   "deltaPatches": [
     {
-      "fromVersion": "1.0.15",
-      "url": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.16/update-1.0.15-to-1.0.16.zip",
-      "sha256": "2ECC03BFDC56CD204B9AE367A057281C22C80B942E71C3741E385B02BDDB2287",
+      "fromVersion": "1.0.16",
+      "url": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.17/update-1.0.16-to-1.0.17.zip",
+      "sha256": "903E6385B8AF306A0D76A1FF954D72FAADA5248C64213BFFA1155BBBBB247004",
       "replaceFolders": [],
       "deletePaths": [
-        "mods/YongYongQuest-v0.1.19.jar",
-        "mods/yongyong-model-importer-0.4.3.jar",
-        "mods/yongyongtutorial-0.1.4.jar"
+        "mods/YongYongQuest-v0.1.20.jar",
+        "mods/yongyongmon-0.9.77.jar"
       ]
     }
   ]
