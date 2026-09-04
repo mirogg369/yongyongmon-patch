@@ -1,7 +1,7 @@
 {
-  "version": "1.0.19",
-  "patchUrl": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.19/patch.zip",
-  "sha256": "4BA54AC6DEE965492034DF32F755980A4B5E071E166C8F4AEB2F774ED3DC2472",
+  "version": "1.0.20",
+  "patchUrl": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.20/patch.zip",
+  "sha256": "3C8FDC0B8F0D532C1C84B9C637902A9F5F23106F0872249E643B62AD43163FB7",
   "message": "용용몬 업데이트",
   "replaceFolders": [
     "mods",
@@ -20,13 +20,13 @@
   "deletePaths": [],
   "deltaPatches": [
     {
-      "fromVersion": "1.0.18",
-      "url": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.19/update-1.0.18-to-1.0.19.zip",
-      "sha256": "73C28C01BD4D5E90A4EE216900DDF7CE8EEFB271A1F5E54288849A104D7CC461",
+      "fromVersion": "1.0.19",
+      "url": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.20/update-1.0.19-to-1.0.20.zip",
+      "sha256": "EBFCC5E15015738F5CCB2DC4FC65719A669A34F74FC103C70415823E3641DC11",
       "replaceFolders": [],
       "deletePaths": [
-        "mods/YongYongQuest-v0.1.28.jar",
-        "mods/yongyongmon-0.9.94.jar"
+        "mods/YongYongQuest-v0.1.30.jar",
+        "mods/yongyongmon-0.9.96.jar"
       ]
     }
   ]
