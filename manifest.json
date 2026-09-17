@@ -1,7 +1,7 @@
 {
-  "version": "1.0.21",
-  "patchUrl": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.21/patch.zip",
-  "sha256": "46926F992D75858D8C0570979A3AD2A42A31503E7C93951A446537247143FAA4",
+  "version": "1.0.22",
+  "patchUrl": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.22/patch.zip",
+  "sha256": "EDA96A53B1F8C53201462827AEA9A7983D7E5C71BDF3BA8BDBFD9E5AEEEA1039",
   "message": "용용몬 업데이트",
   "replaceFolders": [
     "mods"
@@ -21,14 +21,13 @@
     "servers.dat"
   ],
   "deletePaths": [
-    "mods/YongYongQuest-v0.1.32.jar",
-    "mods/pokebattle-1.0.5.jar"
+    "mods/fabric-api-0.116.13+1.21.1.jar"
   ],
   "deltaPatches": [
     {
-      "fromVersion": "1.0.20",
-      "url": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.21/update-1.0.20-to-1.0.21.zip",
-      "sha256": "95606D5AF17295510940C79BC152A18568D2FD4E5BB4D1F1A8502249AA08CD7D",
+      "fromVersion": "1.0.21",
+      "url": "https://github.com/mirogg369/yongyongmon-patch/releases/download/v1.0.22/update-1.0.21-to-1.0.22.zip",
+      "sha256": "3ACA0C07CC55738AFBA08463C49DCEB57EE958E3923A345056946E3D72819063",
       "replaceFolders": [],
       "mergeFolders": [
         "mods",
@@ -38,8 +37,7 @@
         "shaderpacks"
       ],
       "deletePaths": [
-        "mods/YongYongQuest-v0.1.32.jar",
-        "mods/pokebattle-1.0.5.jar"
+        "mods/fabric-api-0.116.13+1.21.1.jar"
       ]
     }
   ]
